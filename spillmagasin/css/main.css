@@ -1,0 +1,26 @@
+body {
+    background-image: url("../images/pexels-photo-255379.jpg");
+    background-size: cover;
+}
+
+.main {
+    text-align: center;
+    margin-top: 400px;
+}
+
+.main h1 {
+    color: rgb(73, 145, 208);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.game {
+    background-color: aquamarine;
+    width: 250px;
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blueviolet;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px;
+    display: inline-block;
+    margin-top: 50px;
+}
